@@ -453,6 +453,12 @@ INPUT tex/chap_sample.tex
 INPUT ./pic/发光原理.png
 INPUT ./pic/发光原理.png
 INPUT ./pic/发光原理.png
+INPUT ./pic/spe.png
+INPUT ./pic/spe.png
+INPUT ./pic/spe.png
+INPUT ./pic/增益.png
+INPUT ./pic/增益.png
+INPUT ./pic/增益.png
 INPUT ./tex/chap_summary.tex
 INPUT ./tex/chap_summary.tex
 INPUT ./tex/chap_summary.tex

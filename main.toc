@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {3.1}气路系统}{10}{section.22}%
 \contentsline {section}{\numberline {3.2}探测器腔体}{11}{section.23}%
 \contentsline {section}{\numberline {3.3}PMT选型调试}{12}{section.24}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}气氙探测器测试}{14}{chapter.26}%
-\contentsline {chapter}{结~~~~论}{15}{chapter*.27}%
-\contentsline {chapter}{参考文献}{16}{section*.28}%
-\contentsline {chapter}{\numberline {附录A\hspace {.3em}}附录说明}{17}{chapter.30}%
-\contentsline {chapter}{攻读硕士学位期间取得的研究成果}{18}{chapter*.31}%
-\contentsline {chapter}{致~~~~谢}{19}{chapter*.35}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}气氙探测器测试}{15}{chapter.27}%
+\contentsline {chapter}{结~~~~论}{16}{chapter*.28}%
+\contentsline {chapter}{参考文献}{17}{section*.29}%
+\contentsline {chapter}{\numberline {附录A\hspace {.3em}}附录说明}{18}{chapter.31}%
+\contentsline {chapter}{攻读硕士学位期间取得的研究成果}{19}{chapter*.32}%
+\contentsline {chapter}{致~~~~谢}{20}{chapter*.36}%
 \contentsfinish 

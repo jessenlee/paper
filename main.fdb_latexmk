@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1773827733.45876 "main.aux" "main.bbl" "main" 1773827742.42766 0
+["bibtex main"] 1774251859.69727 "main.aux" "main.bbl" "main" 1774251869.19731 0
   "./def/GBT7714-2015-NoWarning.bst" 1729777751 29261 d7b720ffa1797a1b406e9de5d326b4e2 ""
   "./ref.bib" 1773827661 1800 edc6484460a7260049344e74497638de ""
-  "main.aux" 1773827736 4842 19f6860d59b460c41b0f5b507a61efed "xelatex"
+  "main.aux" 1774251862 5363 85813bdf902f7e647bbc261dd356b25b "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1773827737.79875 "main.xdv" "main.pdf" "main" 1773827742.43741 0
-  "main.xdv" 1773827736 307620 ece3ab23821f95534a5cf46aeb70577b "xelatex"
+["xdvipdfmx"] 1774251864.10816 "main.xdv" "main.pdf" "main" 1774251869.20637 0
+  "main.xdv" 1774251862 324160 59785743ddea93312df2f562a3c5a771 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1773827734.02672 "d:/文档/北航硕博士学位论文 LaTeX 4.1.0/北航硕博士学位论文 LaTeX 4.1.0/main.tex" "main.xdv" "main" 1773827742.42798 0
+["xelatex"] 1774251860.37161 "d:/文档/北航硕博士学位论文 LaTeX 4.1.0/北航硕博士学位论文 LaTeX 4.1.0/main.tex" "main.xdv" "main" 1774251869.19777 0
   "d:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1765633636 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2025/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1765645698 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "d:/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1765646763 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -162,21 +162,23 @@
   "def/buaa.cls" 1758272432 43037 738db63e5ad110bae6b7ded3f6823400 ""
   "def/head-master.eps" 1713493640 1919666 3806ca423470b543c6d2eadfb8dabf7a ""
   "def/logo-buaa.eps" 1713493640 922834 82dc77c4afbd03c5ab353b939ae9e4c1 ""
-  "main.aux" 1773827736 4842 19f6860d59b460c41b0f5b507a61efed "xelatex"
-  "main.bbl" 1773827733 457 33dbf08f08b9550b9a35c3af95819663 "bibtex main"
-  "main.lof" 1773827736 508 7db0d415a6ed018050834fea9fb9aec8 "xelatex"
-  "main.lot" 1773827736 309 4a617336e646ce6554d2a7c1697c3a6b "xelatex"
-  "main.out" 1773827736 3310 954bc838b345af5b0b31bf5a9bfa6fa7 "xelatex"
+  "main.aux" 1774251862 5363 85813bdf902f7e647bbc261dd356b25b "xelatex"
+  "main.bbl" 1774251860 457 33dbf08f08b9550b9a35c3af95819663 "bibtex main"
+  "main.lof" 1774251862 626 915c229195a5774ab3126fea95abe5c7 "xelatex"
+  "main.lot" 1774251862 309 4a617336e646ce6554d2a7c1697c3a6b "xelatex"
+  "main.out" 1774251862 3310 7b1df0fc954f84173a7c42baa679e002 "xelatex"
   "main.tex" 1773827661 12231 da89772de4ae79acbc0344d29d1fa2b8 ""
-  "main.toc" 1773827736 1637 32c3fd36702265057f4b47a5352f5e4e "xelatex"
+  "main.toc" 1774251862 1637 ba4a459b376309201e4236b8462cdb18 "xelatex"
   "pic/HIAF.png" 1773752641 434349 8964f8bea2d1e5428bf7be32bb5de581 ""
   "pic/MUSIC.png" 1773473267 1583719 6e12aec9ada567b7f46d7ff92c291921 ""
+  "pic/spe.png" 1774250802 53122 02283847852822ad90195d9096b29c06 ""
   "pic/发光原理.png" 1773739803 34391 956c73245cf7d85210cfd3711ba7913d ""
+  "pic/增益.png" 1774251563 20764 0f47feaa6541a377876665a25d7ca8b8 ""
   "tex/chap_achievement.tex" 1773826386 1052 5aca062e1a613f0ac776705ed4a3896c ""
   "tex/chap_acknowledge.tex" 1757918212 449 f857eab6957bfde13f3bc825b195cbd9 ""
   "tex/chap_appendix.tex" 1773825056 72 9e7e5f02023bff0d5eb556c270776d4a ""
   "tex/chap_instruction.tex" 1773827661 14608 bcaf81d5b881c39a84d33aa5e1cd22c3 ""
-  "tex/chap_sample.tex" 1773826386 16362 e75c55bea1da432adcba62218659b007 ""
+  "tex/chap_sample.tex" 1774251834 19171 1599fdac4a77105a4967e1b7229b2887 ""
   "tex/chap_summary.tex" 1740053971 193 473a2e631dd400220f9f5c0f6efcd836 ""
   (generated)
   "main.aux"
